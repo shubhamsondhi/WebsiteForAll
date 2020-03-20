@@ -1,0 +1,10 @@
+First step it will ask a user about any specific disabilities or needs. (I am sorry if I use the wrong words while discribing the disabilit)
+  examples or specifiaction: No arms/ Hands, Blind, hearing problem or-and color blind etc
+Create account of user while assisting based on client needs
+Create different best example pages or everyday task. It could be easy or difficult 
+    examples are buying product, Applying insurance, paying money, Seeing charts or stock, news and my best education.
+ How it will operate?
+ I have not done the research but for example 
+ a blined user can be asked the questions and should be able to operate without even typing a single word yes like(alexa, google min)
+ I will try to make exptream cases first before coming to middle that is how I solve the coding bugs. My way. Lets create the standerds for all.
+ 
